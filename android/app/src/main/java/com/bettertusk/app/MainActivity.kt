@@ -37,7 +37,7 @@ class MainActivity : AppCompatActivity() {
             }
         }
         if (savedInstanceState == null) {
-            webView.loadUrl("https://new.tusksearch.com/ai")
+            webView.loadUrl("https://new.tusksearch.com/ai/")
         }
     }
 
